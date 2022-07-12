@@ -1,0 +1,8 @@
+<meta>
+    <info author="Mohammad_PCSX" version="1.0.0" name="ModsXD" description="ModsXD Ha Ha Ha" type="script"/>
+    <script src="Client.lua" type="client" cache="false"/>
+    <file src="300.txd"/>
+    <file src="300.dff"/>
+    <file src="411.txd"/>
+    <file src="411.dff"/>
+</meta>
